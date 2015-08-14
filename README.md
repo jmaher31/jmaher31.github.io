@@ -11,7 +11,7 @@ The following steps were taken to optimize index.html
   
   -Removed unnecessary web font
 
-The following steps were taken to optimizepizza.html 
+The following steps were taken to optimize pizza.html 
 
 -reduced the number of sliding pizzas to 64 which appears sufficient
 -changed it so that instead of updating the DOM for each pizza in a loop, the DOM is updated once with all the sliding pizzas
